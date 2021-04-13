@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markamooti
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, js(react), flutter, c# 
+- 🌱 I’m currently learning python, js(express, react, node), flutter, c# 
 
 <!---
 markamooti/markamooti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
