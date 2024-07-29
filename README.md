@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markamooti
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, js & C 
+- 🌱 I’m currently learning Python, JS & C 
 
 <!---
 markamooti/markamooti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
